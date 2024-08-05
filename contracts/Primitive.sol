@@ -1,4 +1,4 @@
-pragma solidity ^0.8.24;
+pragma solidity ^0.8.24
 
 contract Primitives {
 
@@ -81,5 +81,5 @@ contract Primitives {
     uint256 public defualtUintVal ;//0
     address public defualtAddress ;// 0x0000000000000000000000000000000000000000
 
-    
+
 }
